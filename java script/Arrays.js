@@ -31,7 +31,7 @@ person[2] = 46;
 person.length;    // Will return 3
 person[0];        // Will return "John"
 
-A Common Error
+//A Common Error
 const points = [40];
 //is not the same as:
 
