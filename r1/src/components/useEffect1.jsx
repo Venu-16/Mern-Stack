@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-function useEffect1() {
+function Effect() {
     const [user, setUser] = useState(null);
 
     useEffect(() =>{
@@ -25,4 +25,5 @@ function useEffect1() {
 
 
 }
-export default useEffect1;
+
+export default Effect;
